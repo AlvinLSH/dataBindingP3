@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical3</string>
+    <string name="set_data">SET DATA</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="programme">Programme</string>
+</resources>
